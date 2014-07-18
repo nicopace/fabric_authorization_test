@@ -1,0 +1,2 @@
+This repo tests the authorization tools of fabric.
+What this script show is that if a user has passwordless sudo, and you run a fabric file as that user, fabric won't ask you for any password.
